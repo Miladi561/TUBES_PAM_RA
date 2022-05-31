@@ -19,5 +19,5 @@ Cara penggunaan aplikasi:
 3. User dapat melihat Katalog yang terlampir beserta informasinya
 
 Berikut Bukti Screen Shoot!
-(https://user-images.githubusercontent.com/91087631/171225651-84bb35f2-ec75-44be-8e8d-f4a15f9fc62d.jpeg)
-(https://user-images.githubusercontent.com/91087631/171225658-eedb13da-e441-4fee-8991-5f89f3a7c6d3.jpeg)
+![WhatsApp Image 2022-05-31 at 23 17 04 (1)](https://user-images.githubusercontent.com/91087631/171226302-2da7ae70-bcbf-451b-bb59-39458cc25069.jpeg)
+![WhatsApp Image 2022-05-31 at 23 17 04](https://user-images.githubusercontent.com/91087631/171226307-f9e0e3ea-fd52-4eec-a8ee-bda417812796.jpeg)
